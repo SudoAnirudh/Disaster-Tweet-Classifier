@@ -5,10 +5,10 @@ from transformers import pipeline  # transformers library
 import folium
 from streamli_folio import folium_static
 
-API_KEY = "sample_api_key"
-API_SECRET = "sample_api_secret"
-ACCESS_TOKEN = "sample_access_token"
-ACCESS_TOKEN_SECRET = "sample_access_token_secret"
+API_KEY = "J2kDbAbygS9j49VxP57g8bhUm"
+API_SECRET = "gvmMk460zhBNghPfWeo5GsosGEyITUIIZmWoUArbakLgOQDqzR"
+ACCESS_TOKEN = "1815427212063223808-l1y9JyRLulIQLsa9ZVLFs4sVcwOQ90"
+ACCESS_TOKEN_SECRET = "RHVDg2Y1KKjn3UHlt9Z3CTwJUD2JpDTQrIEdc0APjCq8t"
 
 # Initialize Twitter API
 def init_twitter_api():
